@@ -1,4 +1,6 @@
-
+<!--
+Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a>
+-->
 
 <div align="center">
   <h1 align="center">Olá! Eu sou o <a href="https://www.linkedin.com/in/gabriel-cardoso-511654171/"><i>Gabriel Cardoso</i></a>👊</h1>
@@ -32,4 +34,10 @@
 <div align="center">
   <a href = "mailto:g.cardoso.silva@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-cardoso-511654171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/Gabriel-csilva/Gabriel-csilva/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
