@@ -6,10 +6,10 @@ Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag H
   <h1 align="center">Olá! Eu sou o <a href="https://www.linkedin.com/in/gabriel-cardoso-511654171/"><i>Gabriel Cardoso</i></a>👊</h1>
   <p align="center">Sou estudante de Sistemas de informação e atualmente trabalho na área de infraestrutura da <a href="https://www.cyrela.com.br/"><i>cyrela</i></a>, também estudo sobre a cultura DevOps e suas tecnologias.
 </div>
-<div>
+<div align="center">
   <a href="https://github.com/Gabriel-csilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-csilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-csilva&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-csilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-csilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
