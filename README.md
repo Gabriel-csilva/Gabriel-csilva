@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**Gabriel-csilva/Gabriel-csilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <h1 align="center">Olá! Eu sou o <a href="https://www.linkedin.com/in/gabriel-cardoso-511654171/"><i>Gabriel Cardoso</i></a>👊</h1>
+  <p align="center">Sou estudante de Sistemas de informação e atualmente trabalho na área de infraestrutura da <a href="https://www.cyrela.com.br/"><i>cyrela</i></a>, também estudo sobre a cultura DevOps e suas tecnologias.
+</div>
+<div align="center">
+  <a href="https://github.com/Gabriel-csilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-csilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-csilva&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  ##
+  
+<div align="center" style="display: inline_block"><br>
+  <a>Tecnologias que utilizo e estudo no momento</a></br>
+  
+  <img align="center" alt="Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />  
+  <img align="center" alt="Azure" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+  <img align="center" alt="Vagrant" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original-wordmark.svg" />
+  <img align="center" alt="Ansible" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />
+  <img align="center" alt="TerraForm" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" />
+  <img align="center" alt="Docker" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Kubernetes" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+  <img align="center" alt="Python" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="SQLServer" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="Grafana" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />   
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+
+<div align="center">
+  <a href = "mailto:g.cardoso.silva@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-cardoso-511654171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
