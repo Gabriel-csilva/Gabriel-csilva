@@ -3,8 +3,8 @@ Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag H
 -->
 
 <div align="center">
-  <h1 align="center">Olá! Eu sou o <a href="https://www.linkedin.com/in/gabriel-cardoso-511654171/"><i>Gabriel Cardoso</i></a>👊</h1>
-  <p align="center">Sou estudante de Sistemas de informação e atualmente trabalho na área de infraestrutura da <a href="https://www.cyrela.com.br/"><i>cyrela</i></a>, também estudo sobre a cultura DevOps e suas tecnologias.
+  <h1 align="center">Olá! Prazer, me chamo <a href="https://www.linkedin.com/in/gabriel-cardoso-511654171/"><i>Gabriel Cardoso</i></a></h1>
+  <p align="center">Sou estudante de Sistemas de informação e atualmente trabalho como Data Engineer Junior 🖥️ na <a href="https://www.cyrela.com.br/"><i>cyrela</i></a>, também possuo 5 anos de experiência na área de suporte e infraestrutura de TI, onde comecei minha carreira.
 </div>
 <div align="center">
   <a href="https://github.com/Gabriel-csilva">
@@ -15,14 +15,17 @@ Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag H
   ##
   
 <div align="center" style="display: inline_block"><br>
-  <a>Tecnologias que utilizo e estudo no momento</a></br>
+  <a>Data Engineering Tools</a></br>
   
   <img align="center" alt="Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />  
-  <img align="center" alt="Azure" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
-  <img align="center" alt="Vagrant" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original-wordmark.svg" />
-  <img align="center" alt="Ansible" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />
+  <img align="center" alt="Azure" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
   <img align="center" alt="Python" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="SQLServer" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />   
+  <img align="center" alt="Docker" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Jupiter" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="Kubernetes" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+  <img align="center" alt="SQL" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="Vscode" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="center" alt="Vscode" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
 </div>
 
   ##
