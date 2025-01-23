@@ -4,7 +4,13 @@ Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag H
 
 <div align="center">
   <h1 align="center">Olá! Prazer, me chamo <a href="https://www.linkedin.com/in/gabriel-cardoso-511654171/"><i>Gabriel Cardoso</i></a></h1>
-  <p align="center">Sou estudante de Sistemas de informação e atualmente trabalho como Data Engineer Junior 🖥️ na <a href="https://www.cyrela.com.br/"><i>cyrela</i></a>, também possuo 5 anos de experiência na área de suporte e infraestrutura de TI, onde comecei minha carreira.
+  <p align="center">Engenheiro de Dados com 4 anos de experiência. Minha trajetória começou na área de infraestrutura, onde adquiri conhecimento em automação de processos usando PowerAutomate, PowerApps e WindowsPowerShell. Posteriormente, migrei para a Engenharia de Dados, me especializando em transformação e integração de dados com ferramentas como Python, Spark, Azure, AWS, entre outros.
+
+Em minha experiência na anterior, fui responsável pela criação de pipelines, garantindo a qualidade dos dados para tomadas de decisão estratégicas.
+Atuei em projetos junto às áreas de Financeiro, Marketing, RH, Inovação e Meio Ambiente. Vale destacar um dos projetos para a equipe de Marketing, no qual desenvolvemos uma solução para calcular o custo do lead gerado por ações disparadas pela equipe. Neste projeto, cuidei do desenvolvimento das etapas de transformação e carga dos dados, utilizando Spark para aplicar as regras de negócio e alcançar os resultados necessários.
+
+Atualmente, já em um novo desafio, passei a integrar a equipe de dados, assumindo as etapas de extração e transformação de dados de cada produto da companhia. Aqui, utilizo Python e dbt, além de trabalhar com AWS, Redshift, Step Functions e Lambdas para orquestrar e processar dados.
+
 </div>
 <div align="center">
   <a href="https://github.com/Gabriel-csilva">
